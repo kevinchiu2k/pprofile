@@ -1,7 +1,6 @@
 # kevinchiu2k.github.io
-## Project
-### Project 1
-- Description
+### Project
+- Description:
 1. 可以抓取 Flickr 網站的圖片，抓全部相片和博覽館的圖片
 2. 可以抓取 Pinterest 的圖片
 3. 可以抓取 ppt網站的 Beauty, KoreaStar, KoreaDrama 的圖片
@@ -14,7 +13,7 @@
 - [W3schools Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [動態網頁爬蟲-使用Selenium](https://hackmd.io/@aaronlife/python-topic-selenium)
 - [Python爬蟲使用Beautiful Soup](https://hackmd.io/@aaronlife/python-topic-beautifulsoup#Python%E7%88%AC%E8%9F%B2%E4%BD%BF%E7%94%A8Beautiful-Soup)
-* [其它](docs/001.md)
+- [其它](docs/001.md)
 
 # Education
 - [NYCU University](https://www.nycu.edu.tw/nycu/ch/index)
@@ -22,4 +21,4 @@
 
 # Work Histroy
 - Support Manager
-- Support Sr. Engineer
+- Sr. Support Engineer
